@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae9df934-0327-49fe-af00-db3d6e3634a2" name="Changes" comment="seconds&#10;request print">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework1.2_puthon.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework1.2_puthon.py" afterDir="false" />
+    <list default="true" id="ae9df934-0327-49fe-af00-db3d6e3634a2" name="Changes" comment="input seconds">
+      <change afterPath="$PROJECT_DIR$/Homework1.3_python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="279EbjJWsLQsRPabZOH83GOzyKb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648760460242</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="input seconds">
+      <created>1648834075888</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648834075888</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +203,7 @@
     <MESSAGE value="tipy dannyh&#10;add testfile" />
     <MESSAGE value="input variables&#10;request print" />
     <MESSAGE value="seconds&#10;request print" />
-    <option name="LAST_COMMIT_MESSAGE" value="seconds&#10;request print" />
+    <MESSAGE value="input seconds" />
+    <option name="LAST_COMMIT_MESSAGE" value="input seconds" />
   </component>
 </project>
